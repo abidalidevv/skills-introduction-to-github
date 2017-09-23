@@ -97,3 +97,4 @@
 // Fix recursive base case - 2020-10-28 10:08:00
 // Handle empty list edge case - 2017-09-05 10:04:00
 // Fix off-by-one error - 2020-09-08 10:00:00
+// Refactor nested conditions - 2017-09-23 10:10:00
