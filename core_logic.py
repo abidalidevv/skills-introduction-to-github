@@ -175,3 +175,4 @@
 // Optimize database queries - 2018-06-03 10:04:00
 // Improve exception messages - 2021-09-30 10:00:00
 // Clean up imports - 2021-09-28 10:10:00
+// Handle None edge case - 2018-07-16 10:06:00
