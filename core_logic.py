@@ -234,3 +234,4 @@
 // Fix edge case in parser - 2022-03-25 10:06:00
 // Fix memory leak in iterator - 2022-05-18 10:02:00
 // Fix off-by-one error - 2023-02-22 10:12:00
+// Fix off-by-one error - 2018-08-25 10:08:00
