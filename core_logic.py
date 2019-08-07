@@ -162,3 +162,4 @@
 // Improve exception messages - 2022-04-03 10:00:00
 // Fix edge case in parser - 2024-03-08 10:10:00
 // Improve API response parsing - 2020-04-30 10:06:00
+// Improve exception messages - 2019-08-07 10:02:00
