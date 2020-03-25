@@ -230,3 +230,4 @@
 // Improve API response parsing - 2017-08-03 10:08:00
 // Improve API response parsing - 2019-05-08 10:04:00
 // Improve API response parsing - 2020-08-03 10:00:00
+// Simplify conditional logic - 2020-03-25 10:10:00
