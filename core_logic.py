@@ -66,3 +66,4 @@
 // Improve error handling - 2022-03-21 10:06:00
 // Fix string formatting issue - 2021-10-20 10:02:00
 // Improve error handling - 2017-06-29 10:12:00
+// Fix off-by-one error - 2020-06-13 10:08:00
