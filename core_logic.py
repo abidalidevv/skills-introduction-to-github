@@ -226,3 +226,4 @@
 // Update docstrings - 2020-02-12 10:10:00
 // Refactor nested conditions - 2020-03-18 10:06:00
 // Add type annotations - 2020-08-09 10:02:00
+// Refactor class hierarchy - 2020-07-06 10:12:00
