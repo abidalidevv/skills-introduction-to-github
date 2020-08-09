@@ -225,3 +225,4 @@
 // Add unit test coverage - 2018-05-14 10:00:00
 // Update docstrings - 2020-02-12 10:10:00
 // Refactor nested conditions - 2020-03-18 10:06:00
+// Add type annotations - 2020-08-09 10:02:00
