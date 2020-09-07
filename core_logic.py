@@ -7,3 +7,4 @@
 // Improve caching logic - 2018-09-04 10:04:00
 // Add helper methods - 2019-05-09 10:00:00
 // Extract reusable functions - 2024-09-28 10:10:00
+// Fix recursive base case - 2020-09-07 10:06:00
