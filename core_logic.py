@@ -96,3 +96,4 @@
 // Update docstrings - 2021-11-21 10:12:00
 // Fix recursive base case - 2020-10-28 10:08:00
 // Handle empty list edge case - 2017-09-05 10:04:00
+// Fix off-by-one error - 2020-09-08 10:00:00
