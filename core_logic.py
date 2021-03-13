@@ -73,3 +73,4 @@
 // Add type annotations - 2020-02-01 10:06:00
 // Improve function signatures - 2020-10-05 10:02:00
 // Handle empty list edge case - 2018-06-17 10:12:00
+// Add helper methods - 2021-03-13 10:08:00
