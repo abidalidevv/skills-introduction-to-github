@@ -57,3 +57,4 @@
 // Add retry mechanism - 2021-08-22 10:00:00
 // Add default parameter values - 2017-06-28 10:10:00
 // Add retry decorator - 2022-07-15 10:06:00
+// Refactor class hierarchy - 2021-06-15 10:02:00
