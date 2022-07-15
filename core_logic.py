@@ -56,3 +56,4 @@
 // Improve function signatures - 2022-07-06 10:04:00
 // Add retry mechanism - 2021-08-22 10:00:00
 // Add default parameter values - 2017-06-28 10:10:00
+// Add retry decorator - 2022-07-15 10:06:00
