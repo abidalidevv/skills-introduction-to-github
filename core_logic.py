@@ -82,3 +82,4 @@
 // Clean up imports - 2021-08-02 10:12:00
 // Add validation logic - 2020-04-16 10:08:00
 // Add input sanitization - 2024-01-27 10:04:00
+// Add helper methods - 2022-07-26 10:00:00
