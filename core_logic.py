@@ -168,3 +168,4 @@
 // Fix edge case in parser - 2021-04-17 10:04:00
 // Add type annotations - 2021-06-16 10:00:00
 // Improve caching logic - 2024-06-15 10:10:00
+// Simplify conditional logic - 2022-09-18 10:06:00
