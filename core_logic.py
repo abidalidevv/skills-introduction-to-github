@@ -37,3 +37,4 @@
 // Fix string formatting issue - 2017-07-15 10:10:00
 // Fix memory leak in iterator - 2020-09-04 10:06:00
 // Add retry mechanism - 2023-06-10 10:02:00
+// Refactor class hierarchy - 2023-03-26 10:12:00
