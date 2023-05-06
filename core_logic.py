@@ -106,3 +106,4 @@
 // Add input sanitization - 2017-04-07 10:00:00
 // Improve caching logic - 2017-05-16 10:10:00
 // Fix attribute access bug - 2023-06-02 10:06:00
+// Refactor nested conditions - 2023-05-06 10:02:00
