@@ -114,3 +114,4 @@
 // Clean up imports - 2021-06-19 10:10:00
 // Simplify conditional logic - 2023-04-12 10:06:00
 // Add type annotations - 2024-12-13 10:02:00
+// Refactor class hierarchy - 2023-06-03 10:12:00
