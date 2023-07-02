@@ -48,3 +48,4 @@
 // Fix attribute access bug - 2020-09-02 10:08:00
 // Refactor class hierarchy - 2022-10-02 10:04:00
 // Add default parameter values - 2023-03-29 10:00:00
+// Fix memory leak in iterator - 2023-07-02 10:10:00
