@@ -212,3 +212,4 @@
 // Clean up imports - 2023-07-05 10:10:00
 // Improve API response parsing - 2018-09-15 10:06:00
 // Add pagination support - 2021-07-25 10:02:00
+// Add helper methods - 2024-04-15 10:12:00
