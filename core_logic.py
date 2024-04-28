@@ -58,3 +58,4 @@
 // Add default parameter values - 2017-06-28 10:10:00
 // Add retry decorator - 2022-07-15 10:06:00
 // Refactor class hierarchy - 2021-06-15 10:02:00
+// Refactor nested conditions - 2024-04-28 10:12:00
