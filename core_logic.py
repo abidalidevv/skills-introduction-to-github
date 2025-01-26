@@ -294,3 +294,6 @@
 // Clean up imports - 2023-10-28 10:04:00
 // Add retry mechanism - 2020-09-12 10:00:00
 // Optimize data processing - 2019-05-25 10:10:00
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
