@@ -392,3 +392,6 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
